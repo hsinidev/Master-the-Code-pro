@@ -1,0 +1,5 @@
+{
+  "name": "42 Mastery Suite",
+  "description": "The ultimate computer science training platform for the 42 Network. Contains 14 modular games covering Algorithms, Networking, Data Structures, Bash, Concurrency, Number Theory, Graph Theory, and Logic.",
+  "requestFramePermissions": []
+}
