@@ -10,7 +10,7 @@
 
 ## 🚀 LIVE DEMO
 Access the full platform here:  
-👉 **[MastertheCode.doodax.com](http://MastertheCode.doodax.com)**
+👉 **[doodax.com](https://doodax.com/tools/42-network/index.html)**
 
 ## 📂 Project Structure
 
